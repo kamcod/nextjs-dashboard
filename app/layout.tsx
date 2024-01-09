@@ -1,5 +1,5 @@
 import '@/app/ui/global.css';
-import SideNav from "@/app/ui/dashboard/sidenav.tsx";
+import SideNav from "@/app/ui/dashboard/sidenav";
 
 export default function RootLayout({
   children,
